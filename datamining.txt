@@ -1,0 +1,100 @@
+Berikan contoh pembelajaran tidak diselia.	Clustering.
+Berikan contoh pembelajaran tidak diawasi.	Clustering.
+Apakah itu pembelajaran diawasi ?	Dalam pembelajaran diawasi, nilai benar diberikan.
+Apakah itu pembelajaran tidak diawasi ?	Komputer akan membuat ramalannya dengan sendiri.
+Apakah itu pembelajaran pengukuhan ?	Dalam pembelajaran pengukuhan, nilai benar tidak diberikan.
+Apakah itu rangkaian neural ?	Model cara otak manusia membuat keputusan.
+Apakah itu rangkaian saraf ?	Model cara otak manusia membuat keputusan.
+Apakah itu rangkaian komputer ?	Model cara komputer yang dihubungkan melalui saluran komunikasi.
+Terangkan maksud rangkaian saraf.	Model cara otak manusia membuat keputusan.
+Terangkan maksud rangkaian komputer.	Model cara komputer yang dihubungkan melalui saluran komunikasi.
+Apakah itu rangkaian Bayesian ?	Model grafik untuk hubungan probabilistik di antara satu set pembolehubah.
+Nyatakan kategori algoritma pembelajaran mesin ?	Pembelajaran mesin diselia and tidak selia.
+Nyatakan kategori algoritma pembelajaran mesin ?	Pembelajaran mesin diawasi and tidak diawasi.
+Nyatakan faedah menggunakan Naive Bayes.	Ia boleh digunakan untuk pengklasifikasian dan ramalan.
+Nyatakan faedah menggunakan perlombongan data.	Ia boleh digunakan untuk mencari corak data yang tersembunyi dalam set data yang besar.
+Nyatakan faedah menggunakan pembelajaran mendalam.	Ia boleh digunakan untuk mencari menyelesaikan masalah yang rumit.
+Algoritma Naive Bayes digunakan untuk apa ?	Ia boleh digunakan untuk pengklasifikasian dan ramalan.
+Untuk apa klasifikasi dijalankan ?	Rekod-rekod yang tidak dilihat sebelum ini boleh dikelaskan
+Apakah tujuan classification ?	Rekod-rekod yang tidak dilihat sebelum ini boleh dikelaskan
+Terangkan klasifikasi.	Teknik perlombongan data diawasi.
+Klasifikasi itu apa ?	Teknik perlombongan data diselia.
+AI itu apa ?	Artificial Intelligence atau Kecerdasan buatan
+AI itu bergunakah ?	Ya, ia boleh memudahkan kehidupan seharian
+AI itu bahayakah ?	Ya, ia boleh menjadi bahaya jika disalahguna
+Apa itu pengelompokan ?	Teknik perlombongan data tidak diselia
+Ajarkan saya tentang klasifikasi.	Teknik perlombongan data tidak diselia
+Apakah tujuan perlombongan data ?	Untuk mencari corak data yang tersembunyi dalam set data yang besar.
+Kenapakah data mining itu penting ?	Untuk mencari corak data yang tersembunyi dalam set data yang besar.
+Berikan contoh kegunaan perlombongan data.	Mengesan penipuan kad kredit dan ramalan perilaku.
+Berikan contoh kegunaan data mining.	Mengesan penipuan kad kredit dan ramalan perilaku.
+Bagaimana kita boleh menyediakan model perlombongan data ?	Data perlu dibersihkan dan algoritma yang sesuai dipilih.
+Bagaimana kita boleh menyediakan model pembelajaran mendalam ?	Data perlu dibersihkan dan algoritma yang sesuai dipilih dan banyak ujian perlu dilakukan.
+Nyatakan dua jenis perlombongan data.	Perlombongan deskriptif dan ramalan.
+Bagaimana boleh skor dalam kursus perlombongan data ?	Perlu memahami teori dan membuat praktis yang secukupnya.
+Berikan contoh perisian perlombongan data.	Contohnya adalah RapidMiner, Weka, Python.
+Berikan contoh kecerdasan buatan pada telefon pintar.	Contohnya adalah cap jari, mengesan muka dan suara
+Berikan saya contoh perisian pangkalan data.	Contohnya adalah MS-SQL dan Oracle.
+Bagaimanakah kecerdasan buatan belajar ?	Data raya digunakan untuk melatih kecerdasan buatan.
+Bagaimana kecerdasan buatan dilatih ?	Data raya digunakan untuk melatih kecerdasan buatan.
+Mampukah kecerdasan buatan belajar ?	Ya, kecerdasan buatan belajar dengan penggunaan data raya
+Terdapat berapa jenis agen dalan kecerdasan buatan ?	Ada empat jenis agen.
+AI ada berapa jenis agen ?	Ada empat jenis agen.
+Apakah kecerdasan buatan yang terdapat pada telefon pintar ?	Nyah-kunci telefon menggunakan cap jari, muka dan suara
+Apakah agen dalam kecerdasan buatan ?	Agen kecerdasan buatan bertindakbalas menggunakan sensor dan efektor
+Siapa yang memulakan penyelidikan dalam kecerdasan buatan ?	Alan Turing, seorang ahli matematik Inggeris
+Apakah hubung kait antara AI dengan falsafah ?	Kedua-duanya mengkaji minda dan akal.
+Apakah hubung kait antara AI dengan pembelajaran mesin ?	Pembelajaran mesin adalah satu kategori AI
+Apakah hubung kait antara pembelajaran diselia dengan tidak selia ?	Kedua-duanya memerlukan data yang secukupnya untuk belajar
+Apakah kekangan yang dihadapi oleh kecerdasan buatan ?	Kegagalan dalam berinteraksi secara terus dengan manusia.
+Apakah fungsi utama AI ?	Melancarkan kehidupan manusia dengan meniru kecerdasan manusia
+Nyatakan kebaikan kecerdasan buatan.	Melancarkan kehidupan manusia dengan meniru kecerdasan manusia.
+Apa itu kecerdasan buatan ?	Ilmu pengetahuan mesin yang menyerupai kepandaian manusia.
+Apakah perbezaan mesin biasa dan kecerdasan buatan ?	Mesin dengan kecerdasan buatan dapat membuat keputusan sendiri
+Berikan maksud kecerdasan buatan.	Penciptaan mesin pintar yang berfungsi dan bertindak seperti manusia.
+Ada berapa kategori AI ?	Dua iaitu Narrow dan General
+Senaraikan tiga komponen utama struktur Sistem Pakar.	Asas pengetahuan, pangkalan data dan user interface.
+Berikan contoh algoritma kesatuan peraturan ?	Bagi kesatuan peraturan, Apriori dan FPGrowth boleh digunakan
+Nyatakan nama algoritma kesatuan peraturan.	Bagi kesatuan peraturan, Apriori dan FPGrowth boleh digunakan
+Terangkan kaedah deskriptif.	Bagi mencari corak  yang dapat menggambarkan data.
+Bolehkah kecerdasan buatan menjadi ancaman ?	Boleh jika diprogram untuk membuat perkara berbahaya.
+Mengapakah analisa berjujukan data penting ?	Ia boleh meramalkan ketergantungan di antara peristiwa yang berlainan.
+Nyatakan faedah kaedah analisa berjujukan.	Ia boleh meramalkan ketergantungan di antara peristiwa yang berlainan.
+Bagaimanakah ramalan boleh dilakukan ?	Menggunakan teknik regresi
+Apakah asas kaedah analisa berjujukan ?	Meramalkan ketergantungan berurutan di antara peristiwa yang berlainan.
+Apa itu pembelajaran mendalam ?	Pembelajaran mesin dengan menggunakan rangkaian saraf pelbagai lapisan.
+Berikan nama lain untuk pembelajaran mesin menggunakan rangkaian saraf pelbagai lapisan.	Pembelajaran mendalam
+Berikan nama lain untuk pembelajaran mesin menggunakan rangkaian neural pelbagai lapisan.	Pembelajaran mendalam
+Deep learning itu apa ?	Pembelajaran mesin dengan menggunakan rangkaian saraf pelbagai lapisan.
+Apakah contoh aplikasi yang menggunakan kecerdasan buatan ?	Pemprosesan bahasa semulajadi
+Senaraikan beberapa aplikasi AI.	Pemprosesan bahasa semulajadi, analisis sentimen dan pengesanan wajah
+Ajarkan saya tentang klasifikasi.	Teknik perlombongan data diselia.
+Apakah peraturan agen refleks mudah ?	Peraturan tindakan keadaan semasa
+Apakah kegunaan algoritma pokok keputusan ?	Pokok keputusan digunakan bagi memodelkan data berjenis kategorikal.
+Apakah bahasa pengaturcaraan yang baik untuk membina AI ?	Python dan R
+Berikan maksud proses selari.	Satu masalah yang dibahagi dan diproses pada masa yang sama.
+Terangkan hasil akhir pengaturcaraan kecerdasan buatan.	Satu model yang boleh membuat keputusan yang bijak.
+Apakah yang dimaksudkan dengan pokok keputusan ?	Struktur berbentuk pokok dengan peraturan untuk membuat klasifikasi.
+Apa itu automasi proses robotik ?	Teknologi automasi berdasarkan pendapat robot cerdas
+Bolehkah komputer cerdas ini menggantikan manusia ?	Tidak, kerana komputer tidak mempunyai perasaan
+Apakah tujuan penemuan kesatuan peraturan ?	Untuk membuat cadangan berdasarkan item dan persamaan pengguna.
+Nyatakan faedah penemuan kesatuan peraturan	Untuk membuat cadangan berdasarkan item dan persamaan pengguna.
+Kenapa kita memerlukan komputer cerdas ?	Untuk memudahkan kehidupan seharian
+Berikan tujuan menggunakan algoritma clustering.	Untuk mencari kesamaan atau ketidaksamaan antara data.
+Nyatakan kegunaan Ujian Turing ?	Untuk menguji sama ada respons komputer boleh dibezakan daripada respons manusia.
+Untuk apakah kejuruteraan dalam kecerdasan buatan ?	Untuk menyelesaikan masalah dunia sebenar
+Adakah AI mempunyai implikasi dalam sistem keselamatan ?	Ya
+Bolehkah kereta pemanduan-sendiri dapat mengurangkan kemalangan jalan raya ?	Ya boleh.
+Mampukah kepintaran buatan mengalahkan manusia dalam permainan ?	Ya, dalam chess dan alphago.
+Adakah robot memudahkan kerja manusia ?	Ya, robot boleh memudahkan kerja manusia.
+Untuk apakah kluster dibina ?	Untuk mencari kesamaan atau ketidaksamaan dalam data
+Bilakah istilah AI diperkenalkan ?	Mula diperkenalkan pada tahun 1947 oleh Alan Turing
+Berikan contoh algoritma pengelompokan.	Kaedah k-means dan aglomeratif boleh digunakan.
+Berikan contoh algoritma klasifikasi.	Kaedah jiran terdekat dan pokok keputusan boleh digunakan
+Apakah contoh algoritma ramalan ?	Kaedah Regresi dan Naive Bayes
+Bagaimanakah ramalan boleh dilakukan ?	Dengan menggunakan teknik regresi
+Apa yang kecerdasan buatan boleh lakukan ?	kecerdasan buatan boleh membuat ramalan dan generalisasi.
+Apa yang kecerdasan buatan boleh lakukan ?	generalisasi dan ramalan.
+Apakah kesan sekiranya kecerdasan buatan digunakan dengan secara meluas ?	Memudahkan urusan manusia
+Apakah kelebihan Kecerdasan Buatan ?	Dapat didokumentasi, Konsistent dan teliti
+Apakah fungsi chatbot ?	Ia berfungsi sebagai rakan perbualan
